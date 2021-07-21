@@ -13,6 +13,7 @@
 		BEDF938026A72612008097CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BEDF937E26A72612008097CA /* Main.storyboard */; };
 		BEDF938226A72614008097CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BEDF938126A72614008097CA /* Assets.xcassets */; };
 		BEDF938526A72614008097CA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BEDF938326A72614008097CA /* LaunchScreen.storyboard */; };
+		BEDF939126A7429D008097CA /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEDF939026A7429D008097CA /* HomeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BEDF938126A72614008097CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BEDF938426A72614008097CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BEDF938626A72614008097CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BEDF939026A7429D008097CA /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				BEDF937A26A72612008097CA /* SceneDelegate.swift */,
 				BEDF937C26A72612008097CA /* ViewController.swift */,
 				BEDF937E26A72612008097CA /* Main.storyboard */,
+				BEDF939026A7429D008097CA /* HomeViewController.swift */,
 				BEDF938126A72614008097CA /* Assets.xcassets */,
 				BEDF938326A72614008097CA /* LaunchScreen.storyboard */,
 				BEDF938626A72614008097CA /* Info.plist */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BEDF939126A7429D008097CA /* HomeViewController.swift in Sources */,
 				BEDF937D26A72612008097CA /* ViewController.swift in Sources */,
 				BEDF937926A72612008097CA /* AppDelegate.swift in Sources */,
 				BEDF937B26A72612008097CA /* SceneDelegate.swift in Sources */,
